@@ -22,7 +22,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-public class MainActivity extends Activity {
+public class MainActivity extends DebugActivity {
 
     // Used to load the 'native-lib' library on application startup.
     static {
