@@ -39,6 +39,8 @@ captures/
 
 # Keystore files
 *.jks
+keystore.properties
+CSMobile.keystore
 
 # =========================
 # Operating System Files
