@@ -1,6 +1,6 @@
 package br.com.charlessilva.csmobile;
 
-import android.app.Activity;
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
@@ -9,7 +9,7 @@ import android.util.Log;
  */
 
 /*  Método de ciclo de vida da Activity - Imprime logs */
-public class DebugActivity extends Activity {
+public class DebugActivity extends AppCompatActivity {
 
     protected static final String TAG = "CSMobile";
         protected void onCreate(Bundle icicle) {
