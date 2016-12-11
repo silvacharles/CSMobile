@@ -1,0 +1,3 @@
+[submodule "Android_API/PHPMailer"]
+	path = Android_API/PHPMailer
+	url = https://github.com/PHPMailer/PHPMailer
