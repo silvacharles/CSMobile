@@ -17,5 +17,22 @@
   -->
 
 <resources>
-    <string name="app_name">CSMobile</string>
+    <string name="app_name" translatable="false">CSMobile</string>
+    <string name="app_tela" translatable="false"><b>Grow Comunicação</b></string>
+    <string name="hint_email">Email</string>
+    <string name="hint_senha">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="rep_senha">Esqueceu a senha?</string>
+    <string name="registrar">Não registrado ? <b><u>Registrar agora !</u></b></string>
+    <string name="sair">Sair</string>
+    <string name="alt_senha">Alterar senha</string>
+    <string name="hint_nome">Nome</string>
+    <string name="btn_registro">Registrar</string>
+    <string name="btn_retorno_login">Já registrado ? <b><u>Conecte-se agora !</u></b></string>
+    <string name="rep_senha1">Recuperar senha</string>
+    <string name="hint_codigo">Código</string>
+    <string name="hint_senha_antiga">Senha antiga</string>
+    <string name="hint_senha_nova">Nova Senha</string>
+    <string name="campo_vazio">Os campos estão vazios!</string>
+
 </resources>
