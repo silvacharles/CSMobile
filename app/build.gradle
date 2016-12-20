@@ -28,11 +28,11 @@ android {
         // Habilitando suporte multidex.
         multiDexEnabled true
 
-        externalNativeBuild {
+/*         externalNativeBuild {
             cmake {
                 cppFlags "-frtti -fexceptions"
             }
-        }
+        }*/
         versionNameSuffix '-alpha'
     }
     buildTypes {
