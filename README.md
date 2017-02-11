@@ -14,9 +14,8 @@ Aplicativo da agência Grow Comunicação &amp; Publicidade
 
 ## Dependências ##
 
-- [OkHttp](https://github.com/square/okhttp)
+- [Retrofit](https://github.com/square/retrofit)
 - [Gson](https://github.com/google/gson)
-- [OkHttp](https://github.com/square/okhttp)
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer)
 
 
