@@ -10,7 +10,7 @@ Aplicativo da agência Grow Comunicação &amp; Publicidade
 
 ## Downloads ##
 
-<a href="https://play.google.com/apps/testing/br.com.charlessilva.csmobile"><img src="http://api.charlessilva.com.br/google-play-badge.png" width="200" height="80">
+<a href="https://play.google.com/apps/testing/br.com.charlessilva.csmobile"><img src="https://play.google.com/intl/pt-BR/badges/images/generic/pt_badge_web_generic.png" width="200" height="80">
 
 ## Dependências ##
 
