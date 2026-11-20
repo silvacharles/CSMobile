@@ -1,45 +1,88 @@
 # CSMobile
-![Logo](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
-[![Build Status](https://travis-ci.org/silvacharles/CSMobile.svg?branch=master)](https://travis-ci.org/silvacharles/CSMobile)
+![CSMobile](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+
 [![Platform](https://img.shields.io/badge/platform-Android-green.svg?style=flat)](https://www.android.com)
-[![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=25)
-[![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg?style=flat-square)](https://raw.githubusercontent.com/silvacharles/CSMobile/master/LICENSE)
+[![Language](https://img.shields.io/badge/language-Java-orange.svg?style=flat)](https://www.java.com/)
+[![Status](https://img.shields.io/badge/status-Discontinued-red.svg?style=flat)]
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat-square)](LICENSE)
 
-Aplicativo da agência Grow Comunicação &amp; Publicidade
+> [!WARNING]
+> **Projeto descontinuado (Deprecated)**
+>
+> Este projeto foi descontinuado e não recebe mais atualizações, correções ou manutenção. O código-fonte é mantido exclusivamente para fins históricos, educacionais e demonstrativos. Não é recomendado para utilização em novos projetos ou ambientes de produção.
 
-## Downloads ##
+---
 
-<a href="https://play.google.com/apps/testing/br.com.charlessilva.csmobile"><img src="https://play.google.com/intl/pt-BR/badges/images/generic/pt_badge_web_generic.png" width="200" height="80">
+**CSMobile** foi um aplicativo Android desenvolvido para a agência **Grow Comunicação & Publicidade**, como parte de um projeto de integração entre soluções mobile e serviços de comunicação.
 
-## Dependências ##
+Este repositório é mantido exclusivamente para fins históricos, educacionais e demonstrativos, preservando uma versão do projeto e de sua arquitetura original.
 
-- [Retrofit](https://github.com/square/retrofit)
-- [Gson](https://github.com/google/gson)
-- [PHPMailer](https://github.com/PHPMailer/PHPMailer)
+## Sobre o projeto
 
+O CSMobile foi desenvolvido utilizando Java e Android Studio, em uma época em que essas tecnologias faziam parte do ecossistema tradicional de desenvolvimento Android.
 
-## Autor ##
+O projeto representa uma etapa da minha trajetória profissional no desenvolvimento de aplicações móveis, integração com serviços externos e utilização de APIs.
 
-Charles Silva
+### Tecnologias e dependências
 
-[contato@charlessilva.com.br](mailto:contato@charlessilva.com.br)
+As principais tecnologias e bibliotecas utilizadas no projeto foram:
 
-[http://www.charlessilva.com.br](http://www.charlessilva.com.br)
+- **Java:** linguagem de programação.
+- **Android SDK:** plataforma de desenvolvimento Android.
+- **Retrofit:** comunicação com serviços REST.
+- **Gson:** serialização e desserialização de dados JSON.
+- **PHPMailer:** biblioteca PHP utilizada na integração com serviços de envio de e-mail.
 
-## Licença de Uso ##
+## Estado do projeto
 
-    Copyright 2015-2016 Charles Silva
-    
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+**Projeto descontinuado (Discontinued).**
 
-        http://www.apache.org/licenses/LICENSE-2.0
+O desenvolvimento e a manutenção do CSMobile foram encerrados. O código-fonte permanece disponível neste repositório como registro histórico e demonstração técnica.
 
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+- Não recebe atualizações.
+- Não possui suporte ou manutenção ativa.
+- Suas dependências e ferramentas podem estar obsoletas.
+- A compatibilidade com versões atuais do Android não é garantida.
+- Não é recomendado para utilização em ambientes de produção.
 
+Este repositório não representa uma aplicação Android atualmente mantida ou pronta para distribuição.
+
+## Downloads
+
+A distribuição original foi disponibilizada por meio do Google Play, inicialmente em formato de teste.
+
+O endereço histórico da distribuição é:
+
+[Google Play – CSMobile](https://play.google.com/apps/testing/br.com.charlessilva.csmobile)
+
+**Observação:** o link é mantido apenas como referência histórica. A disponibilidade do aplicativo não é garantida.
+
+## Estrutura e desenvolvimento
+
+O projeto foi desenvolvido utilizando a estrutura convencional de aplicações Android baseadas em Java e Gradle.
+
+Para fins de estudo, o código-fonte pode ser consultado e analisado diretamente pelo Android Studio, considerando as limitações de compatibilidade das ferramentas e dependências originais.
+
+## Autor
+
+**Charles Silva**
+
+Desenvolvedor e profissional de tecnologia, com atuação em infraestrutura de TI, redes, desenvolvimento de soluções tecnológicas, design e comunicação digital.
+
+- GitHub: [@silvacharles](https://github.com/silvacharles)
+- Website: [charlessilva.com.br](https://charlessilva.com.br)
+
+## Licença de uso
+
+Copyright 2015–2016 Charles Silva.
+
+Este projeto está licenciado sob a **Apache License, Version 2.0**.
+
+Você pode consultar os termos completos da licença no arquivo [LICENSE](LICENSE) ou acessar:
+
+https://www.apache.org/licenses/LICENSE-2.0
+
+---
+
+*Projeto preservado para fins históricos, educacionais e demonstrativos.*
